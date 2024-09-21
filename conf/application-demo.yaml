@@ -1,0 +1,4 @@
+elasticsearch:
+  host: demo.elasticsearch.scv
+  port: 8200
+  clusterName: demo-product-search

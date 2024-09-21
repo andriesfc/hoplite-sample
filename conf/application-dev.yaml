@@ -1,0 +1,3 @@
+elasticsearch:
+  host: dev-elasticsearch.scv
+  port: 8200

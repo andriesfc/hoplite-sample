@@ -1,0 +1,3 @@
+elasticsearch:
+  host: prd-elasticsearch.scv
+  port: 8200
